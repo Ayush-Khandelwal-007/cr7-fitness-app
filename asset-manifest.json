@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/cr7-fitness-app/static/css/main.7ec2b3ca.chunk.css",
-    "main.js": "/cr7-fitness-app/static/js/main.48f5d07d.chunk.js",
-    "main.js.map": "/cr7-fitness-app/static/js/main.48f5d07d.chunk.js.map",
+    "main.css": "/cr7-fitness-app/static/css/main.44f39d05.chunk.css",
+    "main.js": "/cr7-fitness-app/static/js/main.5c540d7c.chunk.js",
+    "main.js.map": "/cr7-fitness-app/static/js/main.5c540d7c.chunk.js.map",
     "runtime-main.js": "/cr7-fitness-app/static/js/runtime-main.348b9759.js",
     "runtime-main.js.map": "/cr7-fitness-app/static/js/runtime-main.348b9759.js.map",
     "static/css/2.943a44eb.chunk.css": "/cr7-fitness-app/static/css/2.943a44eb.chunk.css",
-    "static/js/2.43a7cdc2.chunk.js": "/cr7-fitness-app/static/js/2.43a7cdc2.chunk.js",
-    "static/js/2.43a7cdc2.chunk.js.map": "/cr7-fitness-app/static/js/2.43a7cdc2.chunk.js.map",
+    "static/js/2.6678c331.chunk.js": "/cr7-fitness-app/static/js/2.6678c331.chunk.js",
+    "static/js/2.6678c331.chunk.js.map": "/cr7-fitness-app/static/js/2.6678c331.chunk.js.map",
     "index.html": "/cr7-fitness-app/index.html",
-    "precache-manifest.c7ab91a5583a9078e246d07bc8ec37aa.js": "/cr7-fitness-app/precache-manifest.c7ab91a5583a9078e246d07bc8ec37aa.js",
+    "precache-manifest.e54da3cde5ddd40739498b7720cbb46f.js": "/cr7-fitness-app/precache-manifest.e54da3cde5ddd40739498b7720cbb46f.js",
     "service-worker.js": "/cr7-fitness-app/service-worker.js",
     "static/css/2.943a44eb.chunk.css.map": "/cr7-fitness-app/static/css/2.943a44eb.chunk.css.map",
-    "static/css/main.7ec2b3ca.chunk.css.map": "/cr7-fitness-app/static/css/main.7ec2b3ca.chunk.css.map",
-    "static/js/2.43a7cdc2.chunk.js.LICENSE.txt": "/cr7-fitness-app/static/js/2.43a7cdc2.chunk.js.LICENSE.txt",
+    "static/css/main.44f39d05.chunk.css.map": "/cr7-fitness-app/static/css/main.44f39d05.chunk.css.map",
+    "static/js/2.6678c331.chunk.js.LICENSE.txt": "/cr7-fitness-app/static/js/2.6678c331.chunk.js.LICENSE.txt",
     "static/media/IPhone-X.svg": "/cr7-fitness-app/static/media/IPhone-X.1f6f980f.svg",
     "static/media/apple-watch-2.png": "/cr7-fitness-app/static/media/apple-watch-2.4877b5f5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.348b9759.js",
     "static/css/2.943a44eb.chunk.css",
-    "static/js/2.43a7cdc2.chunk.js",
-    "static/css/main.7ec2b3ca.chunk.css",
-    "static/js/main.48f5d07d.chunk.js"
+    "static/js/2.6678c331.chunk.js",
+    "static/css/main.44f39d05.chunk.css",
+    "static/js/main.5c540d7c.chunk.js"
   ]
 }
